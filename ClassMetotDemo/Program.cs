@@ -13,7 +13,7 @@ namespace ClassMetotDemo
 			musteri1.Id = 1;
 			musteri1.Ad = "Berkay Kaya";
 			musteri1.KrediNot = 595;
-
+			//-neden atamıyorz
 			Musteri musteri2 = new Musteri();
 			musteri1.Id = 2;
 			musteri2.Ad = "Engin Demiroğ";
