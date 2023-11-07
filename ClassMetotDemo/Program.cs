@@ -40,6 +40,7 @@ namespace ClassMetotDemo
 			musteriManager.MusteriSil(musteri2);
 			musteriManager.MusteriGuncelle(musteri3);
 
+			//projeye çokomel yapıldı
 		}
 	}
 }
