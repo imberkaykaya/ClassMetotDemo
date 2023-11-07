@@ -21,6 +21,8 @@ namespace ClassMetotDemo
 
 			Musteri musteri3 = new Musteri();
 			musteri1.Id = 3;
+
+			//asdsadsadsad
 			musteri3.Ad = "Ali Kefal";
 			musteri3.KrediNot = 1;
 
